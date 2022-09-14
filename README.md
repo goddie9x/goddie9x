@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://te11.herokuapp.com" target="blank">
-    <img width="90" height="90" src="https://te11.herokuapp.com/logo192.png" alt="hoangminhtam-blog" style="box-sizing: border-box;border-radius: 100px;padding: 4px;"/>
+    <img width="90" height="90" src="https://te11.herokuapp.com/logo192.png" alt="hoangminhtam-blog" />
   </a>
   <a href="https://www.facebook.com/goddie9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangminhtam-facebook" />
