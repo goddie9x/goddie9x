@@ -24,8 +24,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -54,7 +54,7 @@
 <br>
 <div align=center>
   <a href="#" title="goddie9x">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goddie9x&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goddie9x&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=30&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="goddie9x">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=goddie9x&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -67,8 +67,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://te11.herokuapp.com" target="blank">
-    <img width="90" height="90" src="https://te11.herokuapp.com/logo192.png" alt="hoangminhtam-blog" />
+  <a href="[https://te11.herokuapp.com](https://www.facebook.com/goddie9x)" target="blank">
+    <img width="90" height="90" src="https://te11.herokuapp.com/logo192.png](https://www.facebook.com/photo/?fbid=2987577364728004&set=a.102305139921922" alt="my facebook again" />
   </a>
   <a href="https://www.facebook.com/goddie9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangminhtam-facebook" />
@@ -91,10 +91,10 @@
 
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
+[https://github.com/shravan20/github-readme-quotes](https://api.api-ninjas.com/v1/quotes)
 <div align="right">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+![Quote][(https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)](https://api.api-ninjas.com/v1/quotes)
 
 </div>
 
