@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         @keyframes spinAround {
-		  from { background-position: 0 0; }
+		  from { background-position: -3% 0; }
   		  to   { background-position: -103% 0; } 
 		}
         @keyframes typing {
