@@ -6,9 +6,7 @@
 		  from {
 		    transform: translate(-50%, -50%) rotateZ(0deg);
 		  }
-		  to {
-		    transform: translate(-50%, -50%) rotateZ(359deg);
-		  }
+		  to   { background-position: -100% 0; } 
 		}
         @keyframes typing {
           from { width: 0 }
