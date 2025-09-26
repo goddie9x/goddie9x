@@ -5,7 +5,7 @@
   <style>
     @keyframes spinAround {
     from { background-position: 0 0; }
-    to { background-position: -960px 0; } /* shift full width */
+    to { background-position: 960px 0; }
     }
     @keyframes stars {
     0% { background-position: 0 100% }
