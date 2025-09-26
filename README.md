@@ -17,6 +17,20 @@
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp; -->
+<span><img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=239120" alt="C# logo" title="C#" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WPF-282C34?logo=windows&logoColor=0078D6" alt="WPF logo" title="WPF" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-2F2625?logo=coffeescript&logoColor=red" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=white" alt="Spring logo" title="Spring" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server logo" title="SQL Server" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=blue" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
@@ -45,6 +59,27 @@
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp; -->
+<!-- Messaging & Streaming -->
+<span><img src="https://img.shields.io/badge/Apache%20Kafka-282C34?logo=apachekafka&logoColor=231F20" alt="Kafka logo" title="Kafka" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/gRPC-282C34?logo=grpc&logoColor=00C7B7" alt="gRPC logo" title="gRPC" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Axon%20Framework-282C34?logoColor=white" alt="Axon logo" title="Axon Framework" height="25" /></span>
+&nbsp;
+
+<!-- Cloud & Infra -->
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Eureka-282C34?logo=spring&logoColor=6DB33F" alt="Eureka logo" title="Eureka" height="25" /></span>
+&nbsp;
+
+<!-- ORM & Tools -->
+<span><img src="https://img.shields.io/badge/GORM-282C34?logo=go&logoColor=00ADD8" alt="GORM logo" title="GORM" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
