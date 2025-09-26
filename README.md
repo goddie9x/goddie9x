@@ -67,9 +67,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/goddie9x" target="blank">
+  <!-- <a href="https://www.facebook.com/goddie9x" target="blank">
     <img width="90" height="90" src="https://www.facebook.com/photo/?fbid=2987577364728004&set=a.102305139921922" alt="my facebook again" />
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/goddie9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangminhtam-facebook" />
   </a>
@@ -89,7 +89,7 @@
 
 <br>
 
-<h2 align="center">📑 Random Quotes 📑</h2>
+<h2 align="center">📑 Quotes 📑</h2>
 <br>
 <div align="right">
 
