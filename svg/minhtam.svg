@@ -3,13 +3,13 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         @keyframes spinAround {
-          0% { background-position: 0 0 }
-          100% { background-position: 355px 0 }
-        }
-        @keyframes stars {
-          0% { background-position: 0 100% }
-          100% { background-position: 0 0 }
-        }
+		  from {
+		    transform: translate(-50%, -50%) rotateZ(0deg);
+		  }
+		  to {
+		    transform: translate(-50%, -50%) rotateZ(359deg);
+		  }
+		}
         @keyframes typing {
           from { width: 0 }
           to { width: 100% }
