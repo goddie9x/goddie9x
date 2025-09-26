@@ -91,7 +91,7 @@
 
 <h2 align="center">📑 Quotes 📑</h2>
 <br>
-<div align="right">
+<div align="center">
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
