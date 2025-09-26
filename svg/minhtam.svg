@@ -65,7 +65,7 @@
     }
     .skills {
     display: inline-flex;
-    margin: 30px 0 0 100px;
+    margin: 30px 0 0 70px;
     gap: 7px;
     }
     .skills_icon>img {
@@ -73,7 +73,7 @@
     height: 80px;
     }
     .only_nodejs_skill {
-    margin-left: 80px;
+    margin-left: 70px;
     }
     .skills_icon_node>img {
     width: 340px;
