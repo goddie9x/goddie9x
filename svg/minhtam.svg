@@ -58,8 +58,8 @@
     height: 240px;
     animation:
     spinTexture 14s linear infinite,
-    spinGlobe 14s linear infinite,
-    wobble 14s ease-in-out infinite;
+    spinGlobe 20s linear infinite,
+    wobble 40s ease-in-out infinite;
     box-shadow: 0 0 25px RGBA(255,255,255, 0.25),
     -8px -8px 15px #000 inset,
     2px 2px 25px #000 inset,
