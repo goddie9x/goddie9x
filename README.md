@@ -66,7 +66,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Axon%20Framework-282C34?logoColor=white" alt="Axon logo" title="Axon Framework" height="25" /></span>
 &nbsp;
-
 <!-- Cloud & Infra -->
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
@@ -74,7 +73,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Eureka-282C34?logo=spring&logoColor=6DB33F" alt="Eureka logo" title="Eureka" height="25" /></span>
 &nbsp;
-
 <!-- ORM & Tools -->
 <span><img src="https://img.shields.io/badge/GORM-282C34?logo=go&logoColor=00ADD8" alt="GORM logo" title="GORM" height="25" /></span>
 &nbsp;
