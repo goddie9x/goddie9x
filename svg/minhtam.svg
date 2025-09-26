@@ -4,7 +4,7 @@
   <style>
     @keyframes spinTexture {
     from { background-position: 0 0; }
-    to { background-position: -521.3px 0; } /* surface eastward */
+    to { background-position: 521.3px 0; }
     }
 
     @keyframes spinGlobe {
