@@ -50,7 +50,7 @@
           position: absolute;
           top: 50%;
           left: 80%;
-          transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
+          transform: translate(-50%, -50%);
         }
         .greeting {
           overflow: hidden;
