@@ -1,6 +1,12 @@
-<a href="#" target="_blank">
+<a href="https://hoang-minh-tam-portfolio.vercel.app/" target="_blank">
   <img src="svg/minhtam.svg" width="1200" alt="Tâm Hoàng Minh - Technical Lead" />
 </a>
+
+<p align="center">
+  <a href="https://hoang-minh-tam-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-20232a?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=20232a&color=61dafb" alt="Portfolio" height="40" />
+  </a>
+</p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -47,7 +53,7 @@
 <br>
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=goddie9x&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=goddie9x&layout=compact&theme=react&hide_border=true&langs_count=100" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=goddie9x&layout=compact&theme=react&hide_border=true&langs_count=10" />
 </div>
 
 <div align="center">
