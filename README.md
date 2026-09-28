@@ -1,9 +1,9 @@
-<a href="https://hoang-minh-tam-portfolio.vercel.app/" target="_blank">
-  <img src="svg/minhtam.svg" width="1200" alt="Tâm Hoàng Minh - Technical Lead" />
+<a href="https://hmt9x.dev" target="_blank">
+  <img src="svg/minhtam.svg" width="1200" alt="Tâm Hoàng Minh - Technical Lead - my passions" />
 </a>
 
 <p align="center">
-  <a href="https://hoang-minh-tam-portfolio.vercel.app/" target="_blank">
+  <a href="https://hoang-minh-tam-portfolio.vercel.app/full" target="_blank">
     <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-20232a?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=20232a&color=61dafb" alt="Portfolio" height="40" />
   </a>
 </p>
@@ -53,7 +53,7 @@
 <br>
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=goddie9x&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=goddie9x&layout=compact&theme=react&hide_border=true&langs_count=10" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=goddie9x&layout=compact&theme=react&hide_border=true" />
 </div>
 
 <div align="center">
@@ -71,7 +71,7 @@
   <a href="https://www.youtube.com/channel/UC5C6cbvmpS7FPcJ7pIbkczQ" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/hoàng-minh-tâm-209236212" target="blank">
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-minh-t%C3%A2m" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/goddie9x" target="blank">
