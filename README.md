@@ -68,13 +68,13 @@
   <a href="https://www.facebook.com/goddie9x" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UC5C6cbvmpS7FPcJ7pIbkczQ" target="blank">
+  <a href="https://www.youtube.com/@tamhoangminh197" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
   </a>
   <a href="https://www.linkedin.com/in/ho%C3%A0ng-minh-t%C3%A2m" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/goddie9x" target="blank">
+  <a href="https://www.instagram.com/tttt_aaa_taata_at_aat_m_aa_tt_" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
   <a href="mailto:hoangminhtam7991@gmail.com" target="top">
